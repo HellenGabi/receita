@@ -1,2 +1,2 @@
 # receita
-frango frito
+
